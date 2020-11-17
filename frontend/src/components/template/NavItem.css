@@ -1,0 +1,22 @@
+a.navItem {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    padding: 15px;
+    font-weight: 300;
+}
+a.navItem > i {
+    font-size: 1.5em;
+    margin-right: 20px;
+}
+a.navItem:hover {
+    background: linear-gradient(135deg, #07a7e3 0%, #32dac3 100%);
+}
+
+@media (max-width: 768px) {
+    a.navItem {
+        display: inline;
+        padding: 10px;
+        margin: 0px;
+    }
+}

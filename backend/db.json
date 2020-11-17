@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Naiara Duarte",
+      "email": "naiaraduarte123@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Alexandre Lucas",
+      "email": "alexandrelucas.dev@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Liziane Tamm",
+      "email": "lizianetamm@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "William Rodrigues",
+      "email": "wferreira.civil@gmail.com"
+    },
+    {
+      "name": "Camarada",
+      "email": "aseasease",
+      "id": 5
+    }
+  ]
+}
